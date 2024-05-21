@@ -1,0 +1,9 @@
+<svg data-name="india flag" xmlns="http://www.w3.org/2000/svg" width="31" height="22" viewBox="0 0 31 22">
+    <path data-name="Rectangle 1252" style="fill:none" d="M0 0h31v22H0z"/>
+    <g data-name="Group 2177">
+        <path data-name="Rectangle 1253" transform="translate(0 14.448)" style="fill:#399565" d="M0 0h31v6.895H0z"/>
+        <path data-name="Rectangle 1254" transform="translate(0 7.552)" style="fill:#fff" d="M0 0h31v6.895H0z"/>
+        <path data-name="Rectangle 1255" transform="translate(0 .657)" style="fill:#f93" d="M0 0h31v6.895H0z"/>
+        <path data-name="Path 12706" d="M43.691 35.815a3.121 3.121 0 1 0 3.121 3.121 3.12 3.12 0 0 0-3.121-3.121zm.059.684a2.34 2.34 0 0 1 1.1.3l-1.01 1.513zm-.238 1.783L42.5 36.766a2.34 2.34 0 0 1 1.1-.3zm-.476.832-1.516 1.011a2.34 2.34 0 0 1-.3-1.1zm-1.783-.238a2.34 2.34 0 0 1 .3-1.1l1.516 1.011zm2.379 2.524a2.34 2.34 0 0 1-1.1-.3l1.011-1.516zm.238-1.813 1.011 1.516a2.34 2.34 0 0 1-1.1.3zm.476-.832 1.516-1.011a2.34 2.34 0 0 1 .3 1.1zm1.812.245a2.34 2.34 0 0 1-.3 1.1l-1.516-1.011zm-.386-1.337-1.6.8.8-1.6a2.3 2.3 0 0 1 .8.795zm-3.359-.8.8 1.6-1.6-.8a2.585 2.585 0 0 1 .8-.808zm-.8 3.359 1.6-.8-.8 1.6a2.3 2.3 0 0 1-.802-.808zm3.359.8-.8-1.6 1.6.8a2.082 2.082 0 0 1-.803.794z" style="fill:#2f3b7c" transform="translate(-28.206 -27.936)"/>
+    </g>
+</svg>

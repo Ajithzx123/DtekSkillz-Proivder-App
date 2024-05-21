@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+    <path data-name="Rectangle 1266" style="fill:none" d="M0 0h12v12H0z"/>
+    <path data-name="Path 12715" d="M1.052-2.235H5v3.947H1.052z" transform="translate(1.876 2.235)" style="fill:none"/>
+    <path data-name="delete" d="M.991 8.723a1.045 1.045 0 0 0 1.043 1.042h4.174a1.045 1.045 0 0 0 1.043-1.042v-6.26H.988v6.26zm1.046-5.218h4.174v5.218H2.037zM5.95.9 5.427.374H2.818L2.3.9H.471v1.04h7.306V.9z" transform="translate(1.876 1.235)" style="fill:#343f53"/>
+</svg>

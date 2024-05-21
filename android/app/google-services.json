@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "246980378222",
+    "project_id": "spotserve-provider",
+    "storage_bucket": "spotserve-provider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246980378222:android:641c8fb9a3c441ce71707f",
+        "android_client_info": {
+          "package_name": "spot.serve.provider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMJqMo2AkI8Pk3wgyo-z6O8KmjJXVH6aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246980378222:android:db643def8f76b33c71707f",
+        "android_client_info": {
+          "package_name": "wrteam.edemand.provider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMJqMo2AkI8Pk3wgyo-z6O8KmjJXVH6aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

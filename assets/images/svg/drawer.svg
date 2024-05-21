@@ -1,0 +1,12 @@
+<svg data-name="Component 35 – 1" xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+    <defs>
+        <clipPath id="heqq809spa">
+            <path data-name="Rectangle 980" transform="translate(42 46)" style="stroke:#707070;fill:#343f53" d="M0 0h21v21H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 6" transform="translate(-42 -46)" style="clip-path:url(#heqq809spa)">
+        <path data-name="Path 12245" d="M19.688 9.188H1.313a1.313 1.313 0 0 0 0 2.625h18.375a1.313 1.313 0 0 0 0-2.625z" style="fill:#343f53" transform="translate(42 46)"/>
+        <path data-name="Path 12246" d="M1.313 5.688h18.375a1.312 1.312 0 1 0 0-2.625H1.313a1.312 1.312 0 1 0 0 2.625z" style="fill:#343f53" transform="translate(42 46)"/>
+        <path data-name="Path 12247" d="M19.688 15.312H1.313a1.313 1.313 0 0 0 0 2.625h18.375a1.313 1.313 0 0 0 0-2.625z" style="fill:#343f53" transform="translate(42 46)"/>
+    </g>
+</svg>
